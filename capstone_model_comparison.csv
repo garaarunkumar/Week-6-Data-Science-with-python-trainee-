@@ -1,0 +1,6 @@
+,Logistic Regression,Random Forest
+accuracy,0.707,0.864
+precision,0.307,0.714
+recall,0.661,0.254
+f1,0.419,0.375
+roc_auc,0.752,0.778
